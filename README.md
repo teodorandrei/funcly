@@ -8,7 +8,7 @@ Funcly is a basic package. It is my first ever NPM package, so do not expect any
 
 ## Funcly's functions
 
-#CONSOLE STYLING
+# CONSOLE STYLING
 
 * log(thingToLog); - Logs thingToLog to the console
 * red(thingToLog); - Logs thingToLog with red text to the console
@@ -21,7 +21,7 @@ Funcly is a basic package. It is my first ever NPM package, so do not expect any
 * italic(thingToLog); - Logs thingToLog with italic text to the console
 * underline(thingToLog); - Logs thingToLog with underlined text to the console
 
-#MISC FUNCTIONS
+# MISC FUNCTIONS
 * random(from|number, to|number) - Returns a random number between the **from** and **to** arguments
 * rndArray(array|array) - Returns a random item from the specified array.
 * sleep(timeInMs|number) - Waits **timeInMs** milliseconds.
