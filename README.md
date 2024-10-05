@@ -1,6 +1,6 @@
 ## What is Funcly?
 
-Funcly is a basic package. It is my first ever NPM package, so do not expect anything too complicated :)
+Funcly is a basic package with different functions to improve QOL.
 
 ## Installation
 
